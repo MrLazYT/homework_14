@@ -1,0 +1,43 @@
+.App {
+    width: 40%;
+    margin: auto;
+    text-align: center;
+}
+
+.typography {
+    margin: 10px;
+}
+
+.button-container {
+    margin: 20px;
+}
+
+.textfield-container {
+    margin: 10px;
+}
+
+.button-group {
+    margin: 5px;
+}
+
+.submit-button {
+    margin: 10px;
+}
+
+.post-block {
+    margin: 20px;
+}
+
+.post-pub-info {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.comments-block {
+    margin: 10px;
+}
+
+.comment-block {
+    margin: 10px;
+}
